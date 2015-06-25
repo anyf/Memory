@@ -1,3 +1,6 @@
 # Memory 
 
-## Memories...
+## Vad är memory
+
+* CmdMemory, Commandline tool
+* WebMemory, Webapp  
