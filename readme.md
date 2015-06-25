@@ -5,4 +5,4 @@
 * CmdMemory, Commandline tool
 * WebMemory, Webapp  
 
-* Hur bygger man
+* Hur bygger man dd
