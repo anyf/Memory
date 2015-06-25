@@ -4,3 +4,5 @@
 
 * CmdMemory, Commandline tool
 * WebMemory, Webapp  
+
+* Hur bygger man
