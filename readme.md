@@ -1,8 +1,9 @@
 # Memory 
 
-## Vad är memory
+## Vad Ã¤r memory
 
 * CmdMemory, Commandline tool
 * WebMemory, Webapp  
 
-* Hur bygger man dd
+* Hur bygger man
+ bla...
